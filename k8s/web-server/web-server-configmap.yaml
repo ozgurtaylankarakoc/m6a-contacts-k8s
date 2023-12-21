@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: webserver-configmap
+data:
+  MYSQL_USER: m6acrew
+  MYSQL_DATABASE: contacts
+  MYSQL_DATABASE_HOST: mysql-svc.default.svc.cluster.local
