@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  m6a-contacts-chart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-12-23T11:57:30.629612599Z"
+    description: A Helm chart for Kubernetes M6A-Contacts App
+    digest: ab44a9f010edd587dc265753224a8c03419bff2cd110ed6f83ab8bb6c34ab3b6
+    name: m6a-contacts-chart
+    type: application
+    urls:
+    - m6a-contacts-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-23T11:57:30.628640926Z"
